@@ -1,0 +1,7 @@
+echo "# caprice2201" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/UMAL-Remote/caprice2201.git
+git push -u origin main
